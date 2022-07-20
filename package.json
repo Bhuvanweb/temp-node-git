@@ -1,0 +1,17 @@
+{
+  "name": "NodeJSCodingAddict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10.CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.8.0"
+  }
+}
